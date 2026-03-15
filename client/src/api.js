@@ -1,4 +1,4 @@
-const API_BASE = "http://192.168.1.XXX:8000/api";
+const API_BASE = "http://localhost:8000/api";
 
 // LOGIN
 export const loginUser = async (emailOrForm, password) => {
